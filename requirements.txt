@@ -1,0 +1,7 @@
+# Python dependencies for SRT Voice Dubber Studio
+edge-tts>=7.0.0
+soundfile>=0.12.0
+librosa>=0.10.0
+webrtcvad-wheels>=2.0.10
+numpy>=1.22.0
+scipy>=1.10.0

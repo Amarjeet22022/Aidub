@@ -1,0 +1,6 @@
+{
+  "name": "SRT Voice Dubber Studio",
+  "description": "Voice-aware audio dubber using SRT subtitles: automatically analyzes speaker pitch, gender, and expression, ducks original dialogue, and synthesizes synchronized neural dubbed audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
